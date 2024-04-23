@@ -1,0 +1,11 @@
+@import url("../src/css/hero.css");
+@import url("../src/css/aims.css");
+@import url("../src/css/about.css");
+@import url("../src/css/icon.css");
+@import url("../src/css/explore.css");
+@import url("../src/css/spaceFooter.css");
+@import url("../src/css/loading.css");
+
+.black {
+  background-color: #141414;
+}
